@@ -1,0 +1,16 @@
+{ "name": "diretto-client"
+, "description": "An environment-agnostic JavaScript client library for the diretto services."
+, "main": "./index"
+, "author": "Benjamin Erb"
+, "version": "0.0.1"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/diretto/diretto-js-client.git"
+  }
+, "bugs" : { "web" : "https://github.com/diretto/diretto-js-client/issues" }
+, "licenses" :
+  [ { "type" : "MIT"
+    , "url" : "https://github.com/diretto/diretto-js-client/blob/master/LICENSE"
+    }
+  ]
+}
