@@ -1,3 +1,0 @@
-[submodule "vendor/rest-client.js"]
-	path = vendor/rest-client.js
-	url = git://github.com/berb/rest-client.js.git

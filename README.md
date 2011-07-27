@@ -1,6 +1,18 @@
-# diretto-js-client
+# diretto-client-node
 
-An environment-agnostic JavaScript client library for the diretto services
+A node.js (JavaScript) client library for the diretto services 
+
+## Supported APIs/Services
+
+#### Main APIs
+- tbd.
+
+#### External APIs
+- tbd.
+
+## Usage 
+
+tbd.
 
 ## License
 

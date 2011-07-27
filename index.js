@@ -1,1 +1,1 @@
-module.exports = require('./lib/diretto-client');
+module.exports = require('./lib/client-builder.js');
